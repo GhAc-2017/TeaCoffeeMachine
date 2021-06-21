@@ -1,14 +1,14 @@
 
 
-# Algorithm:
+# Algorithm
 ```
-* A multithreaded system with n threads is invoked to represent n outlet coffee machine.
+* A multithreaded(for n parallel operation) system with n threads is invoked to represent n outlet coffee machine.
 
-* It queues up all the beverage making requests from the input and tries to create the beverages with the help of central inventory management system
+* It can queue up all the beverage making requests from the input and tries to create the beverages with the help of central inventory management system
 
-* Feature to add new ingredient in our inventory is given, as well as to add new Beverage Requests at any given point of time.
+* Feature to add new ingredient in our Inventory & add new Beverage Requests at any time is given.
 
-* Importance has been given to thread safety to ensure two drinks do not use same ingredient.
+* Importance has been given to thread safety such that no two drinks use same ingredient.
 ```
 
 # Testcases
