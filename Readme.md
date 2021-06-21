@@ -6,9 +6,9 @@
 
 * It can queue up all the beverage making requests from the input and tries to create the beverages with the help of central inventory management system
 
-* Feature to add new ingredient in our Inventory & add new Beverage Requests at any time is given.
+* The system has Features to add new ingredient in our Inventory & add new Beverage Requests at any time.
 
-* Importance has been given to thread safety such that no two drinks use same ingredient.
+* Thread safety is taken care of, such that no two drinks use same ingredient.
 ```
 
 # Testcases
